@@ -1,28 +1,39 @@
-# Meu Portfólio - Ciência da Computação
+<h1 align="center">Olá! Eu sou Kewy huang 👋</h1>
 
-## Olá, sou [Seu Nome]!
-Estudante de Ciência da Computação
-
----
-
-## Sobre Mim
-Sou um estudante de Ciência da Computação apaixonado por programação, aprendizado de novas tecnologias e desenvolvimento de soluções inovadoras. Tenho interesse em áreas como desenvolvimento de software, inteligência artificial e ciência de dados.
-
----
-
-## Meus Projetos
-- **Projeto 1**: Sistema de gerenciamento de tarefas (usando React e Node.js)
-- **Projeto 2**: Algoritmos de Machine Learning para previsão de vendas
-- **Projeto 3**: API RESTful para gerenciamento de dados de usuários
+<p align="center">
+ <a href="https://www.linkedin.com/in/kewyhuang/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="mailto:kewyhuang@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</p>
 
 ---
 
-## Entre em Contato
-Você pode me encontrar nas redes sociais ou enviar um e-mail para:
-- [GitHub](https://github.com/seu-usuario)
-- [LinkedIn](https://www.linkedin.com/in/seu-nome)
-- [seuemail@dominio.com](mailto:seuemail@dominio.com)
+### 👨‍🏫 Sobre mim
+
+- 👨‍💻 Sou estudante de **ciencia de computação**
+- 💬 Gosto de aprender e explorar novas tecnologias.
 
 ---
 
-© 2025 [Seu Nome] - Todos os direitos reservados.
+### 🚀 Tecnologias que uso
+
+<p style="display: flex; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+---
+
+### 📈 Estatísticas GitHub
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kewyhuang&show_icons=true&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kewyhuang&layout=compact&theme=tokyonight"/>
+</p>
+
