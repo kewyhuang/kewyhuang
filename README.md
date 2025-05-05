@@ -1,41 +1,37 @@
-# olá ,seja bem vindo
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sobre Mim - Kewyhuang</title>
+    <!-- Link para o arquivo CSS -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
 
-Este projeto usa **Python**, **HTML** e **CSS** para criar algo maravilhoso. Aqui, você pode ver como o código Python foi implementado para resolver problemas interessantes.
+    <!-- Container principal -->
+    <div class="container">
+        
+        <!-- Título principal -->
+        <h1>Sobre Mim - Kewyhuang</h1>
 
-## 🔧 Tecnologias Utilizadas
+        <!-- Parágrafo de descrição pessoal -->
+        <p>Olá! Meu nome é Kewyhuang e atualmente estudo na UNIESP. Sou apaixonado por tecnologia e busco constantemente aprender coisas novas.</p>
 
-- **Python**: Para a lógica do backend.
-- **HTML**: Para estruturação do conteúdo da página.
-- **CSS**: Para estilizar e personalizar a aparência.
+        <!-- Lista de hobbies -->
+        <h2>Meus Hobbies:</h2>
+        <ul>
+            <li>Jogar videogames</li>
+            <li>Praticar esportes</li>
+            <li>Programar</li>
+        </ul>
 
-## ✨ Funcionalidades
+    </div>
 
-Este projeto possui diversas funcionalidades, como:
+    <!-- Rodapé com email -->
+    <footer>
+        <p>Entre em contato: <a href="mailto:kewyhuang@gmail.com">kewyhuang@gmail.com</a></p>
+    </footer>
 
-- Processamento de dados em tempo real.
-- Geração de gráficos dinâmicos.
-- Interface com usuários via comandos de entrada.
-
-<div style="background-color: #e0e0e0; padding: 20px; border-radius: 8px;">
-  <h2 style="color: #333;">Exemplo de Código Python</h2>
-  <p>Veja abaixo como funciona a implementação Python deste projeto:</p>
-  <pre style="background-color: #fff; padding: 10px; border-radius: 8px;">
-    <code style="font-family: 'Courier New', monospace;">
-# Exemplo de código Python
-def saudacao(nome):
-    return f"Olá, {nome}! Bem-vindo ao meu projeto."
-
-print(saudacao("Usuário"))
-    </code>
-  </pre>
-</div>
-
-## 🚀 Como Rodar o Projeto
-
-Para rodar o projeto localmente, siga os passos abaixo:
-
-```bash
-git clone https://github.com/usuario/projeto-incrivel.git
-cd projeto-incrivel
-pip install -r requirements.txt
-python app.py
+</body>
+</html>
